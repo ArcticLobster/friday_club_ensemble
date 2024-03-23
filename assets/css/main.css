@@ -3089,6 +3089,7 @@ input, select, textarea {
 
 		#header h1 li {
 			float: left;
+			display: inline;
 			border-right: 1px solid #bbb;
 		}
 
